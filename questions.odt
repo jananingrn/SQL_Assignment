@@ -1,0 +1,22 @@
+The attachment contains the create database and insert statements to be executed in mysql.
+
+
+1)Find the countries which has maximum number of languages and
+display their CountryCode,language.(There is more than one country with same number of language,display all)
+
+
+2) In each country,find the city with highest population  and display the country name,city name and the population of the cities.
+ 
+
+3) Display the following
+   a) number of cities in 'Tamil Nadu' state
+   b) total population of 'Tamil Nadu' state
+   c) Combined population of Coimbatore,Tiruchirapalli,Salem cities of  'Tamil Nadu' state
+
+
+4) Display the city name and population of following cities in the given order.(preserve the order listed)
+Madurai
+Coimbatore
+Tirunelveli
+Salem
+Erode
